@@ -14,30 +14,20 @@ Write your idea in a Google doc or a md file on Github and submit your assignmen
 # Assignment Submission
 
 ## Problem Statement
-Optogenetics became explosively popular
-for controlling animal behaviour in-vivo,
-however, recently this technology was
-applied for in-vitro cells or tissues for
-controlling gene expression.
-For this purpose, long-term and
-time-controlled light stimulation in a
-culture incubator is required..
-This full  LED array fulfills
-all the requirements for the in-vitro
-optogenetics experiments
+Optogenetics is a tool for allowing direct control of cellular function by using direct light stimulation. This is typically achieved by targeting cells of interest with  engineered light-sensitive channels using genetic techniques. These light sensitive channels are typically developed using directed evolution in yeast cell culture where the light sensitive channels are steered towards a targeted parameter, such as blah or blah. The channels with the right parameters are in turn are tagged with a green fluorescent molecule (GFP) which fluoresces in the presence of UV light. 
 
+The optogenetics box is designed for screening multiple wells of yeast culture using a programmable, configurable LED array which allows the user to select the well with the highest fluoresenct intensity. The opto-chamber is also climate controlled for adaptability in an incubation chamber. 
 
 To be feasible, the following requirements need to be met:
 
 * Total irradiance no less than 
-* Deployable to measure a 625 square meter area with a granularity of 1 meter
-* Able to withstand a current 
-* Acquire temperature measurements with a precision of 0.5 degree C and an accuracy of +/- 0.5 degree C
-* Transfer temperature sensor measurements wirelessly to a collection station 1/2 km away, or, store sensor readings and transfer them out optically
-* Transfer temperature sensor measurements at a minimum sampling rate of 120 seconds
-* Transfer temperature sensor measurements securely
-* Operate in an outdoor environment with full exposure to the elements (NEMA 6)
-* Operate in a thermal environment ranging from -10C to 40C
-* Easily be geo-registered using a mobile phone
+* Drive 12 700 mA LEDS with a inhomogeneity less than 
+* Operate in a thermal environment ranging from 20 C to 50C
+* Operate with a relative humidity from 0 to 100 %
+* Chamber must have a viewing camera that allows the user to see the 
+* Chamber must report temperature and humidity to user.
+* 
 
-If a low-cost temperature monitoring “mote”, which can be inexpensively deployed into the field, is designed and manufactured, it will enable many applications in agriculture, forestry, and other fields where dense medium resolution temperature sensing is required that are currently cost prohibitive.
+![Assignment1](https://user-images.githubusercontent.com/23651454/142575492-2d21fb83-a201-41af-b626-8adc46b5610b.png)
+
+
