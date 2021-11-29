@@ -11,7 +11,7 @@ It is the concept for a firmware block diagram for a wireless fiber photometry s
 This is software diagram for the basic example showing how to read a button with interrupt. 
 https://ide.mbed.com/compiler/#nav:/DISCO-F334C8_read_button;panel:import_wizard;
 
-![Assignment2]![Exercise2 2](https://user-images.githubusercontent.com/23651454/143792936-d753b7fe-5bd8-4440-b1c9-f69f4f5f54fe.png)
+![Exercise2 2](https://user-images.githubusercontent.com/23651454/143792936-d753b7fe-5bd8-4440-b1c9-f69f4f5f54fe.png)
 
 
 
