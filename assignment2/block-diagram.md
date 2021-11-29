@@ -7,6 +7,11 @@ It is the concept for a firmware block diagram for a wireless fiber photometry s
 
 ![Exercise2 1software_diagram](https://user-images.githubusercontent.com/23651454/143820455-887c5fbc-7097-4351-95b8-fed8d21d9306.png)
 
+Updated Diagram
+
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/23651454/143822558-f2f0976a-da25-47b9-be18-bdf8a1238204.png)
+
+
 
 # Exercise 2.2 Block Diagram
 
@@ -15,6 +20,8 @@ This is software diagram for the basic example showing how to read a button with
 https://ide.mbed.com/compiler/#nav:/DISCO-F334C8_read_button;panel:import_wizard;
 
 ![Exercise2 2](https://user-images.githubusercontent.com/23651454/143792936-d753b7fe-5bd8-4440-b1c9-f69f4f5f54fe.png)
+
+
 
 
 
