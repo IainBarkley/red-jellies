@@ -5,6 +5,9 @@ It is the concept for a firmware block diagram for a wireless fiber photometry s
 
 ![Assignment2](https://user-images.githubusercontent.com/23651454/143732817-119b5ad9-3ffa-42fc-8c03-57078b8b9847.png)
 
+![Exercise2 1software_diagram](https://user-images.githubusercontent.com/23651454/143820455-887c5fbc-7097-4351-95b8-fed8d21d9306.png)
+
+
 # Exercise 2.2 Block Diagram
 
 ## Description 
