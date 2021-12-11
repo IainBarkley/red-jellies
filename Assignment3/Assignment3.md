@@ -1,10 +1,10 @@
 # Assignment 3
 ## Board: STM32L152C-DISCO
-## Processor: STM32L152RBT6  [1]
-## Memory: 128 KB Flash memory
-## 16 KB RAM 
-## 4 KB EEPROM [1]
-## Special Peripherals:
+ Processor: STM32L152RBT6  [1]
+ Memory: 128 KB Flash memory
+ 16 KB RAM 
+ 4 KB EEPROM [1]
+ Special Peripherals:
   Four LEDS
     LD1 (red/green) indicating USB communication [1]
     LD2 (red) indicating that 3.3 power supply is ON [1]
