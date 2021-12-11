@@ -1,7 +1,7 @@
 # Assignment 3
-## Board: 32L152DISCOVERY 
-Processor: STM32L152RCT6 [1]
-Memory: 256 Kbyte Flash memory, 32 Kbyte RAM 8 Kbyte data EEPROM [1]
+## Board: STM32L152C-DISCO
+Processor: STM32L152RBT6  [1]
+Memory: 128 KB Flash memory, 16 KB RAM, 4 KB EEPROM [1]
 Special Peripherals:
   Four LEDS
     LD1 (red/green) indicating USB communication [1]
