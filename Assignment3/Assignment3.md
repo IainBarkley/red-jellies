@@ -1,6 +1,6 @@
 # Assignment 3
 ## Board: STM32L152C-DISCO
- Processor: STM32L152RBT6  [1]
+ Processor: STM32L152RCT6  [1]
  Memory: 128 KB Flash memory
  16 KB RAM 
  4 KB EEPROM [1]
