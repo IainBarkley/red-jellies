@@ -1,9 +1,9 @@
 # Assignment 3
 ## Board: STM32L152C-DISCO
  Processor: STM32L152RCT6  [1]
- Memory: 128 KB Flash memory
- 16 KB RAM 
- 4 KB EEPROM [1]
+ Memory: 256 KB Flash memory
+ 32 KB RAM 
+ 8 KB EEPROM [1]
  Special Peripherals:
   Four LEDS
     LD1 (red/green) indicating USB communication [1]
