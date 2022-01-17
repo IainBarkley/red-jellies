@@ -1,3 +1,4 @@
-## The overview
+## Overview
+#This is an FSM for the upcoming self closing lid.
 
-!Smart_Coffee_Lid_(Smart_Sippy_Cup).png
+![Exercise5]Smart_Coffee_Lid_(Smart_Sippy_Cup).png
